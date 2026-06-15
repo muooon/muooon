@@ -486,3 +486,13 @@ hglobal(x, t)=λ1∣Λ∣∑zs(z, t−τ(x, z))
  
 ０(完全なゼロではない)のゆらぎが多次元的な可能性をもつ－－－と考えます  
 以上により、すべての物理定数の根底に｢10⁻⁵｣(またはそのベキ乗)閾値スケールの存在と構造的可能性が示唆されると考えます  
+
+### About citations  
+
+---
+
+please refer to the following sources:  
+Official TEXT:  
+https://github.com/muooon/muooon  
+
+---
