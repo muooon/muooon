@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Why Multiverse ? Why Digital Cosmology ? θ-ART is different."
+authors:
+  - family-names: "muooon"
+title: "Autonomous Resonant Ternary Universe Theory based on Universal Threshold θ"
+version: 1.0.0
+date-released: 2026-06-10
+url: "https://github.com/muooon/muooon"
+repository-code: "https://github.com/muooon/muooon"
+keywords:
+  - θ-ART
+  - Ternary-Universe
+  - Universe
+  - Autonomous
+  - Resonant-Universe
+license: Apache-2.0
+abstract: >-
+   θ-ART 宇宙モデル(シータ･アート･ユニバース･モデル) 普遍閾値(θ)による自律共振３値宇宙論
+   Autonomous Resonant Ternary Universe Theory based on Universal Threshold θ
+   I enjoy building ideas and code around a simple question : “What if the universe is ternary (1.58 bits), not binary ?” 
